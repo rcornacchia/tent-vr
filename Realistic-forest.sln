@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realistic-forest", "Realistic-forest.csproj", "{D825A8C8-1703-B10D-4FE0-63965926F8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realistic-forest.Editor", "Realistic-forest.Editor.csproj", "{8FEB01FA-7942-CBF9-A36E-E3DAAADDBA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D825A8C8-1703-B10D-4FE0-63965926F8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D825A8C8-1703-B10D-4FE0-63965926F8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D825A8C8-1703-B10D-4FE0-63965926F8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D825A8C8-1703-B10D-4FE0-63965926F8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEB01FA-7942-CBF9-A36E-E3DAAADDBA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEB01FA-7942-CBF9-A36E-E3DAAADDBA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEB01FA-7942-CBF9-A36E-E3DAAADDBA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEB01FA-7942-CBF9-A36E-E3DAAADDBA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
